@@ -1,20 +1,22 @@
-# Hi there! 👋 I'm Milana
+<h1 align="center">Hi there! 👋 I'm Milana </h2> 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=milana-tech&theme=dark&background=000000)](https://git.io/streak-stats)
+<br>
+<div align="center">
 
-### 👩‍💻 About Me 
-***
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=milana-tech&theme=dark&background=000000)](https://git.io/streak-stats)
+</div>
+
+## 👩‍💻 About Me 
 
 I am a Front-End focused developer specializing in creating intuitive, scalable and user-centric web applications. Currently, I work at **Icologiq** developing enterprise web solutions while pursuing my Bachelor’s degree in Informatics at **NHL Stenden**.
 
 - **My main stack:** **Vue.js**, **JavaScript (ES6+)** and deepeing my knowledge in **React**, paired with modern CSS and a strong eye for UI/UX design.
 - **Full-stack mindset:** I also have solid Back-End capabilities (**Node.js**, **REST APIs**, **MySQL/MongoDB**) and enjoy bridging the gap between elegant client-side architecture and reliable server logic.
 - **How I work:** *Business Needs First* — software is a tool to solve real-world problems. I adapt my workflow based on project goals, knowing when to prioritize deep architectural planning and when to focus on rapid MVP prototyping to deliver immediate value.
+<br>
 
-###
 
-###  🛠️ My Skills
-***
+##  🛠️ My Skills
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-333?style=flat&logo=vue.js)
@@ -28,10 +30,11 @@ I am a Front-End focused developer specializing in creating intuitive, scalable 
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-333?style=flat&logo=gitlab)
-###
 
-### 🌍 How to Reach Me
-***
+<br>
+
+## 🌍 How to Reach Me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/milana-tech/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="22" alt="LinkedIn" />
