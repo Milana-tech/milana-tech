@@ -10,7 +10,8 @@
 
 ###
 
-### About Me 👩‍💻
+### 👩‍💻 About Me 
+***
 
 I am a Front-End focused developer specializing in creating intuitive, scalable and user-centric web applications. Currently, I work at **Icologiq** developing enterprise web solutions while pursuing my Bachelor’s degree in Informatics at **NHL Stenden**.
 
@@ -24,6 +25,7 @@ I am a Front-End focused developer specializing in creating intuitive, scalable 
 ###
 
 ### 🛠️ My Skills
+---
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo" />
@@ -58,6 +60,7 @@ I am a Front-End focused developer specializing in creating intuitive, scalable 
 ###
 
 ### 🌍 How to Reach Me
+***
 
 <div data-importer="socials" align="left">
   <a href="https://linkedin.com/in/milana-tech" target="_blank">
