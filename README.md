@@ -19,9 +19,6 @@ I am a Front-End focused developer specializing in creating intuitive, scalable 
 - **Full-stack mindset:** I also have solid Back-End capabilities (**Node.js**, **REST APIs**, **MySQL/MongoDB**) and enjoy bridging the gap between elegant client-side architecture and reliable server logic.
 - **How I work:** *Business Needs First* — software is a tool to solve real-world problems. I adapt my workflow based on project goals, knowing when to prioritize deep architectural planning and when to focus on rapid MVP prototyping to deliver immediate value.
 
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-
 ###
 
 ### 🛠️ My Skills
