@@ -1,5 +1,4 @@
 # Hi there! 👋 I'm Milana
-***
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=milana-tech&theme=dark&background=000000)](https://git.io/streak-stats)
 
